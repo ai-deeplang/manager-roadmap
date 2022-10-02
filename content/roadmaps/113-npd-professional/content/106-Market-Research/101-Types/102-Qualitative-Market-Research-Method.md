@@ -1,0 +1,1 @@
+# Qualitative Market Research Method
