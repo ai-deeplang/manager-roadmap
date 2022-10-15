@@ -1,1 +1,1 @@
-# Delphi Technique
+# Delphi技术

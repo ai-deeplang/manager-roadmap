@@ -1,1 +1,3 @@
-# Prodyct Life Cycles
+# 产品生命周期
+
+产品生命周期(Prodyct Life Cycles, PLC)是产品从引入到成长、成熟和衰落的一系列阶段，大多数产品都在此过程中进步。

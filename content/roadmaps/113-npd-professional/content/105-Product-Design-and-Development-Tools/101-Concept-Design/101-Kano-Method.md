@@ -1,1 +1,1 @@
-# Kano Method
+# 卡诺模型 Kano Method

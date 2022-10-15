@@ -1,1 +1,1 @@
-# Innovation Strategic Frameworks
+# 制定创新战略的方法和框架

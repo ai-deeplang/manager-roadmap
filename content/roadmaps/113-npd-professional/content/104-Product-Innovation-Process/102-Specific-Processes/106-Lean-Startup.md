@@ -1,1 +1,1 @@
-# Lean Startup
+# 精益创业 Lean Startup

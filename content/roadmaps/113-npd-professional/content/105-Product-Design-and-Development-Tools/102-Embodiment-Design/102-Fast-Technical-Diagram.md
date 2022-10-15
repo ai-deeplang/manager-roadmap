@@ -1,1 +1,1 @@
-# Fast Technical Diagram
+# FAST技术图 Fast Technical Diagram

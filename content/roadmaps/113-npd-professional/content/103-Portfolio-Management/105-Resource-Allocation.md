@@ -1,1 +1,1 @@
-# Resource Allocation
+# 资源配置

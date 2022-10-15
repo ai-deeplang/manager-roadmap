@@ -1,1 +1,1 @@
-# Emotional Design
+# 情感化设计 Emotional Design

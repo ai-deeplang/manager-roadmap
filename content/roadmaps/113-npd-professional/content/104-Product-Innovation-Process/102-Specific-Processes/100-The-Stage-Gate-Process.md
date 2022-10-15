@@ -1,1 +1,1 @@
-# The Stage Gate Process
+# 门径流程 The Stage-Gate® Process

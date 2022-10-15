@@ -1,1 +1,1 @@
-# Open Innovation
+# 开放式创新

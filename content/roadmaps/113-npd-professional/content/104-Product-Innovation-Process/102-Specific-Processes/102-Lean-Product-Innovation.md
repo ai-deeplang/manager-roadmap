@@ -1,1 +1,1 @@
-# Lean Product Innovation
+# 精益产品创新 Lean Product Innovation

@@ -1,1 +1,1 @@
-# Qualitative Market Research Method
+# 定性市场调研

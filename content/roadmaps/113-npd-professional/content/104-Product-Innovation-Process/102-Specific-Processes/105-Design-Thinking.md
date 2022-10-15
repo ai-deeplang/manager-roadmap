@@ -1,1 +1,1 @@
-# Design Thinking
+# 设计思维 Design Thinking

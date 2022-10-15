@@ -1,1 +1,1 @@
-# Management Resposibilities
+# 管理的职责

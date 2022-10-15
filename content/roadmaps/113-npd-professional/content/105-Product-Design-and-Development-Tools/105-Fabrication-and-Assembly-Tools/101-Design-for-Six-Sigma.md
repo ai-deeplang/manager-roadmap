@@ -1,1 +1,1 @@
-# Design for Six Sigma
+# 六西格玛设计 Design for Six Sigma
